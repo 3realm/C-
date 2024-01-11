@@ -1,0 +1,8 @@
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0202\obj\Debug\lab_work_0202.csproj.AssemblyReference.cache
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0202\obj\Debug\lab_work_0202.csproj.SuggestedBindingRedirects.cache
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0202\obj\Debug\lab_work_0202.csproj.CoreCompileInputs.cache
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0202\bin\Debug\lab_work_0202.exe.config
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0202\bin\Debug\lab_work_0202.exe
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0202\bin\Debug\lab_work_0202.pdb
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0202\obj\Debug\lab_work_0202.exe
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0202\obj\Debug\lab_work_0202.pdb

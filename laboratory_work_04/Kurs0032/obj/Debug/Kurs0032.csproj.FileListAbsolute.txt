@@ -1,0 +1,7 @@
+E:\Дкументы Никиты\6102-020302D\C#\Работы С#\Kurs003\Kurs0032\bin\Debug\Kurs0032.exe.config
+E:\Дкументы Никиты\6102-020302D\C#\Работы С#\Kurs003\Kurs0032\bin\Debug\Kurs0032.exe
+E:\Дкументы Никиты\6102-020302D\C#\Работы С#\Kurs003\Kurs0032\bin\Debug\Kurs0032.pdb
+E:\Дкументы Никиты\6102-020302D\C#\Работы С#\Kurs003\Kurs0032\obj\Debug\Kurs0032.csproj.AssemblyReference.cache
+E:\Дкументы Никиты\6102-020302D\C#\Работы С#\Kurs003\Kurs0032\obj\Debug\Kurs0032.csproj.CoreCompileInputs.cache
+E:\Дкументы Никиты\6102-020302D\C#\Работы С#\Kurs003\Kurs0032\obj\Debug\Kurs0032.exe
+E:\Дкументы Никиты\6102-020302D\C#\Работы С#\Kurs003\Kurs0032\obj\Debug\Kurs0032.pdb

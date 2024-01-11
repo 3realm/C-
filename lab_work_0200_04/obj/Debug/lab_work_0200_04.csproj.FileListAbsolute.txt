@@ -1,0 +1,11 @@
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0200_04\bin\Debug\lab_work_0200_04.exe.config
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0200_04\bin\Debug\lab_work_0200_04.exe
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0200_04\bin\Debug\lab_work_0200_04.pdb
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0200_04\obj\Debug\lab_work_0200_04.csproj.AssemblyReference.cache
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0200_04\obj\Debug\lab_work_0200_04.csproj.SuggestedBindingRedirects.cache
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0200_04\obj\Debug\lab_work_0200_04.Form1.resources
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0200_04\obj\Debug\lab_work_0200_04.Properties.Resources.resources
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0200_04\obj\Debug\lab_work_0200_04.csproj.GenerateResource.cache
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0200_04\obj\Debug\lab_work_0200_04.csproj.CoreCompileInputs.cache
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0200_04\obj\Debug\lab_work_0200_04.exe
+C:\мои_документы\6102_020302D\ОП\Работы\lab_work_0200_04\obj\Debug\lab_work_0200_04.pdb

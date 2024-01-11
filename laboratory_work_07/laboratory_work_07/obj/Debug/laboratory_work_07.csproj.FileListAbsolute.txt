@@ -1,0 +1,7 @@
+E:\Дкументы Никиты\6102-020302D\C#\Работы С#\laboratory_work_07\laboratory_work_07\obj\Debug\laboratory_work_07.csproj.AssemblyReference.cache
+E:\Дкументы Никиты\6102-020302D\C#\Работы С#\laboratory_work_07\laboratory_work_07\obj\Debug\laboratory_work_07.csproj.CoreCompileInputs.cache
+E:\Дкументы Никиты\6102-020302D\C#\Работы С#\laboratory_work_07\laboratory_work_07\bin\Debug\laboratory_work_07.exe.config
+E:\Дкументы Никиты\6102-020302D\C#\Работы С#\laboratory_work_07\laboratory_work_07\bin\Debug\laboratory_work_07.exe
+E:\Дкументы Никиты\6102-020302D\C#\Работы С#\laboratory_work_07\laboratory_work_07\bin\Debug\laboratory_work_07.pdb
+E:\Дкументы Никиты\6102-020302D\C#\Работы С#\laboratory_work_07\laboratory_work_07\obj\Debug\laboratory_work_07.exe
+E:\Дкументы Никиты\6102-020302D\C#\Работы С#\laboratory_work_07\laboratory_work_07\obj\Debug\laboratory_work_07.pdb
